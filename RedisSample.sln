@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisSample", "cs_to_redis\RedisSample.csproj", "{F750B2CB-D490-4C86-A1D2-B8D0CABC903D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F750B2CB-D490-4C86-A1D2-B8D0CABC903D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F750B2CB-D490-4C86-A1D2-B8D0CABC903D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F750B2CB-D490-4C86-A1D2-B8D0CABC903D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F750B2CB-D490-4C86-A1D2-B8D0CABC903D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
