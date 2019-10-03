@@ -3,9 +3,7 @@
 ```
 $ redis-server
 ```
-確認方法
-
-## Client起動
+## 確認 Client起動
 cf.) http://mayo.hatenablog.com/entry/2013/10/15/074237
 ```
 $ redis-cli
